@@ -8,7 +8,6 @@ Finance is a web application that allows users to buy and sell stocks and keep t
 2. Install the required packages by running `pip install -r requirements.txt`.
 3. Set the `FLASK_APP` environment variable to `application.py`.
 4. Run `flask run` to start the server.
-5. Open `http://localhost:5000` in your web browser to use the application.
 
 ## Files
 
